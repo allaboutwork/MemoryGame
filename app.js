@@ -1,3 +1,5 @@
+document.addEventListener('DOMContentLoaded', () => {
+
 // card options
 const cardArray = [
     {
@@ -65,3 +67,5 @@ function createBoard () {
 }
 
 createBoard()
+
+})
